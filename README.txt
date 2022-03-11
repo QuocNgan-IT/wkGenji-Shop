@@ -1,4 +1,4 @@
-QUAN TRỌNG:
+QUAN TRỌNG: (PHP thuần, JavaScript chiếm nhiều là do dùng TinyMCE)
 	* Phiên bản Xampp v3.3.0 ; PHP Version 8.0.10
 	
 	* Cần import 2 cơ sở dữ liệu: quanlybanhang.sql và quanlytrangweb.sql
